@@ -7,6 +7,9 @@ import './temas/02-obj-interfaz-arre.ts'
 import './temas/03-funciones.ts'
 import './temas/04-desestructuracion-obj-arre.ts'
 import './temas/05-desestructuracion-funciones.ts'
+import './temas/06-importar-exportar.ts'
+import './temas/07-clases.ts'
+import './temas/08-herencia.ts'
 import { setupCounter } from './counter.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
